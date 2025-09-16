@@ -1,11 +1,5 @@
 //-----------------------------------------
 // NAME        : Oluwanifemi Paul Tawoju
-// STUDENT NUMBER : 7980612
-// COURSE      : COMP 2150
-// INSTRUCTOR  : Olivier Tremblay-Savard
-// ASSIGNMENT  : Assignment 4
-// QUESTION    : Question 1      
-// 
 // REMARKS: This program manages a counter for a game, including features like 
 //          tracking potatoes, applying bonuses, and updating the UI.
 //-----------------------------------------
@@ -15,7 +9,7 @@
 
 // CLASS: Counter
 //
-// Author: Oluwanifemi Paul Tawoju, 7980612
+// Author: Oluwanifemi Paul Tawoju
 //
 // REMARKS: This class manages the game's counter, including potatoes count, 
 //          potatoes per second (PPS), bonuses, and achievements.

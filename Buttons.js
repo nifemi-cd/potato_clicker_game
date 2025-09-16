@@ -1,11 +1,5 @@
 //-----------------------------------------
 // NAME        : Oluwanifemi Paul Tawoju
-// STUDENT NUMBER : 7980612
-// COURSE      : COMP 2150
-// INSTRUCTOR  : Olivier Tremblay-Savard
-// ASSIGNMENT  : Assignment 4
-// QUESTION    : Question 2      
-// 
 // REMARKS: This program defines button-related classes for interacting with 
 //          the game's counter, including clicking and building buttons.
 //-----------------------------------------
@@ -15,7 +9,7 @@
 
 // CLASS: Button
 //
-// Author: Oluwanifemi Paul Tawoju, 7980612
+// Author: Oluwanifemi Paul Tawoju
 //
 // REMARKS: This is an abstract class representing a generic button in the game.
 //          It provides basic functionality for interacting with the counter.
@@ -162,7 +156,7 @@ class ClickingButton extends Button
 
 // CLASS: CountableClasses
 //
-// Author: Oluwanifemi Paul Tawoju, 7980612
+// Author: Oluwanifemi Paul Tawoju
 //
 // REMARKS: This class serves as a base for buttons that track counts and costs.
 //
@@ -220,7 +214,7 @@ class CountableClasses extends Button{
 
 // CLASS: BuildingButton
 //
-// Author: Oluwanifemi Paul Tawoju, 7980612
+// Author: Oluwanifemi Paul Tawoju
 //
 // REMARKS: This class represents a button for purchasing buildings that increase PPS.
 //
@@ -318,7 +312,7 @@ class BuildingButton extends CountableClasses
 
 // CLASS: UpgradeButton
 //
-// Author: Oluwanifemi Paul Tawoju, 7980612
+// Author: Oluwanifemi Paul Tawoju
 //
 // REMARKS: This class represents a button for purchasing upgrades that enhance
 //          the production rate of associated buildings.
@@ -406,7 +400,7 @@ class UpgradeButton extends CountableClasses
 
 // CLASS: BonusButton
 //
-// Author: Oluwanifemi Paul Tawoju, 7980612
+// Author: Oluwanifemi Paul Tawoju
 //
 // REMARKS: This class represents a bonus button that temporarily applies a multiplier
 //          to the counter's production rate for a specified duration.
